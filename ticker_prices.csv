@@ -1,0 +1,8 @@
+ticker,name,current_price,price_change_pct,market_cap,week_52_high,week_52_low,sector
+SPCX,Space Exploration Technologies Corp.,162.0,2.83,2134218244096,225.64,147.11,Industrials
+SWBI,"Smith & Wesson Brands, Inc.",14.95,-0.33,668669632,17.56,7.73,Industrials
+MP,MP Materials Corp.,53.31,-1.79,9490363392,100.251,29.58,Basic Materials
+FLYYQ,"Spirit Aviation Holdings, Inc.",0.01,-50.0,283652,5.19,0.002,Industrials
+QCOM,QUALCOMM Incorporated,176.25,-3.12,185767493632,259.92,121.99,Technology
+SHAZ,SharonAI Holdings Inc.,67.91,-14.16,1602709248,97.48,16.55,Technology
+MSFT,Microsoft Corporation,390.49,1.62,2900729528320,555.45,349.2,Technology
