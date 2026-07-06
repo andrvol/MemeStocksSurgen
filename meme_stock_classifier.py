@@ -183,13 +183,15 @@ def classify_post(text, flair=None, client=None, api_key=None):
              "ticker": ticker, "confidence": "model"}
 
 
-def classify_dataframe(df, text_col="title", flair_col="flair", client=None, api_key=None):
+def classify_dataframe(df, text_col="title", body_col='body',flair_col="flair", client=None, api_key=None):
     """Classify a full DataFrame. Adds sentiment, classification_method, ticker columns."""
     from tqdm.auto import tqdm
     _client = _get_client(client, api_key)
     results = []
     for _, row in tqdm(df.iterrows(), total=len(df), desc="Classifying"):
-        text  = str(row.get(text_col, ""))
+        title = str(row.get(text_col, "") or "")
+        body = str(row.get(body_col, "") or "")
+        text = f"{title}\n\n{body}".strip() if body and body != "nan" else title
         flair = str(row.get(flair_col, "")) if flair_col else None
         results.append(classify_post(text, flair=flair, client=_client))
     out = df.copy()
