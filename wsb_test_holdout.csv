@@ -1,0 +1,105 @@
+post_id,title,body,flair,score,num_comments,upvote_ratio,date_utc,url,ticker,true_label
+test_000,Loaded up on calls before earnings,"Bought 50 NVDA calls, this thing is going to print",YOLO,0,0,1.0,,,,Positive
+test_001,Finally a green portfolio,Up 22% this week thanks to the AI rally,Gain,0,0,1.0,,,,Positive
+test_002,Buying the dip,"QQQ down 3%, backed up the truck, this recovers fast",Discussion,0,0,1.0,,,,Positive
+test_003,DD: undervalued semiconductor play,"P/E is half the sector average, revenue growing 40% YoY, loading shares",DD,0,0,1.0,,,,Positive
+test_004,Fed signals rate cuts,Markets are gonna melt up from here,News,0,0,1.0,,,,Positive
+test_005,Merger announced,"Company A to acquire Company B for $15B, huge premium for shareholders",News,0,0,1.0,,,,Positive
+test_006,Broke even for the first time,"Small win but a win, holding for more upside",Gain,0,0,1.0,,,,Positive
+test_007,Earnings beat across the board,"Revenue and EPS both crushed estimates, stock should rip tomorrow",News,0,0,1.0,,,,Positive
+test_008,Analyst upgrade,"Price target raised to $300 from $180, citing strong demand",News,0,0,1.0,,,,Positive
+test_009,Went all in on the breakout,"Broke through resistance on volume, this is just getting started",YOLO,0,0,1.0,,,,Positive
+test_010,Turned 10k into 60k,Options gamble on biotech FDA approval paid off huge,Gain,0,0,1.0,,,,Positive
+test_011,New product launch crushing expectations,Preorders are 3x what analysts predicted,News,0,0,1.0,,,,Positive
+test_012,Insider buying spree,Three execs bought shares this week with their own money,News,0,0,1.0,,,,Positive
+test_013,Short squeeze building,"Shorts are trapped, this thing is about to gamma squeeze hard",Discussion,0,0,1.0,,,,Positive
+test_014,Bought more on the red day,"Panic sellers are giving me a discount, adding to my position",Discussion,0,0,1.0,,,,Positive
+test_015,Puts finally paying off,"Bought puts before the crash, cashing out now",Gain,0,0,1.0,,,,Negative
+test_016,Shorted the rally,"Sold short at the top, this thing is a house of cards",YOLO,0,0,1.0,,,,Negative
+test_017,Bet against the hype,"Bought puts on the meme stock, bubble has to pop eventually",DD,0,0,1.0,,,,Negative
+test_018,Guidance cut across the board,"Company slashed full year outlook, demand is drying up",News,0,0,1.0,,,,Negative
+test_019,Recession signals flashing,"Yield curve inverted again, this market is heading down",News,0,0,1.0,,,,Negative
+test_020,Missed earnings badly,"EPS way below estimates, guidance also cut, ugly quarter",News,0,0,1.0,,,,Negative
+test_021,Lost half my account,Held through earnings and it gapped down 30%,Loss,0,0,1.0,,,,Negative
+test_022,Bag holding since the top,"Bought at all time highs, down 70% since, no bottom in sight",Loss,0,0,1.0,,,,Negative
+test_023,Regulatory crackdown announced,New rules will hurt margins across the whole sector,News,0,0,1.0,,,,Negative
+test_024,CEO resigns amid scandal,"Fraud allegations surfacing, stock in freefall",News,0,0,1.0,,,,Negative
+test_025,Inverse ETF gains,"Bought SQQQ before the selloff, up big today",Gain,0,0,1.0,,,,Negative
+test_026,Warned everyone about this,"Told you the hype was fake, now it's crashing 40%",Discussion,0,0,1.0,,,,Negative
+test_027,Sold short into the news,"This company is cooking the books, betting it goes to zero",DD,0,0,1.0,,,,Negative
+test_028,Debt downgrade hits shares,"Credit rating cut two notches, borrowing costs about to spike",News,0,0,1.0,,,,Negative
+test_029,Competitor just ate their lunch,"New entrant undercutting prices, market share collapsing",News,0,0,1.0,,,,Negative
+test_030,Famous investor trims position,13F shows a well-known hedge fund cut its stake by 60% last quarter,News,0,0,1.0,,,,Negative
+test_031,Billionaire doubles down publicly,Said on a call he's adding significantly to his stake here,News,0,0,1.0,,,,Positive
+test_032,Analyst quietly removed coverage,No longer listed on the bank's recommended list this month,News,0,0,1.0,,,,Negative
+test_033,Founder just sold a huge chunk of shares,10b5-1 filing shows a large planned sale over next quarter,News,0,0,1.0,,,,Negative
+test_034,Major client renewed contract early,"Signed a 5 year extension ahead of schedule, bigger than before",News,0,0,1.0,,,,Positive
+test_035,Central bank official hints at more hikes,"Said inflation risk still elevated, more tightening likely",News,0,0,1.0,,,,Negative
+test_036,Country lifts export ban on key material,Removes a major supply constraint for manufacturers,News,0,0,1.0,,,,Positive
+test_037,Big supplier just filed for bankruptcy,Key parts supplier in the chain shut down operations overnight,News,0,0,1.0,,,,Negative
+test_038,Another all time high in my losses,"Really outdid myself this time, personal record",Loss,0,0,1.0,,,,Negative
+test_039,Living the dream,"Sold everything at the bottom right before it doubled, typical me",Loss,0,0,1.0,,,,Negative
+test_040,Diamond hands strong today,"Down 90% and still holding, definitely not a mistake",Loss,0,0,1.0,,,,Negative
+test_041,Best trade of my life,"Bought the top, sold the bottom, a true professional",Loss,0,0,1.0,,,,Negative
+test_042,Financial genius right here,Refinanced my house to buy more calls that expired worthless,Loss,0,0,1.0,,,,Negative
+test_043,"Totally fine, everything's fine",Portfolio down 80% but the stock split so it feels better right,Loss,0,0,1.0,,,,Negative
+test_044,Company reports quarterly results,"Revenue in line with estimates, no major surprises",News,0,0,1.0,,,,Neutral
+test_045,New CFO appointed,Replacing outgoing CFO who is retiring after 10 years,News,0,0,1.0,,,,Neutral
+test_046,Annual shareholder meeting scheduled,"Set for next month, agenda includes standard board votes",News,0,0,1.0,,,,Neutral
+test_047,Company changes ticker exchange listing,"Moving from one exchange to another, no operational changes",News,0,0,1.0,,,,Neutral
+test_048,Patent application filed,"Filed for a new manufacturing process, still under review",News,0,0,1.0,,,,Neutral
+test_049,Industry conference announced,Company will present at the upcoming tech conference next month,News,0,0,1.0,,,,Neutral
+test_050,Stock added to new index,Will be included in a mid-cap index starting next rebalance,News,0,0,1.0,,,,Neutral
+test_051,Quarterly dividend declared,"Same amount as last quarter, payable in 30 days",News,0,0,1.0,,,,Neutral
+test_052,Two companies exploring partnership,Signed a non-binding MOU to explore joint research,News,0,0,1.0,,,,Neutral
+test_053,Earnings date confirmed,Company will report results on the 15th after market close,News,0,0,1.0,,,,Neutral
+test_054,Anyone else watching this space,"Curious what people think, haven't decided either way",Discussion,0,0,1.0,,,,Neutral
+test_055,What's everyone's take on rates this year,Trying to understand different views before I decide,Discussion,0,0,1.0,,,,Neutral
+test_056,New index fund launches,"Tracks a basket of clean energy companies, expense ratio 0.2%",News,0,0,1.0,,,,Neutral
+test_057,Company opens new regional office,"Expanding headcount in a new city, details still light",News,0,0,1.0,,,,Neutral
+test_058,Survey shows mixed consumer sentiment,"Half expect prices to rise, half expect them to fall",News,0,0,1.0,,,,Neutral
+test_059,This sub in one image,no comment needed,Meme,0,0,1.0,,,,Neutral
+test_060,Every single time,story of my life,Meme,0,0,1.0,,,,Neutral
+test_061,Mood,just mood,Meme,0,0,1.0,,,,Neutral
+test_062,Tell me you're regarded without telling me,you know the drill,Meme,0,0,1.0,,,,Neutral
+test_063,POV: Monday morning,no further context needed,Meme,0,0,1.0,,,,Neutral
+test_064,Torn on what to do here,"Half of me wants to sell, half wants to hold, no clear signal either way",Discussion,0,0,1.0,,,,Neutral
+test_065,"Earnings coming up, no idea what to expect","Whisper numbers all over the place, genuinely 50/50",Discussion,0,0,1.0,,,,Neutral
+test_066,"Company facing lawsuit, outcome unclear","Could go either way according to legal experts, too early to say",News,0,0,1.0,,,,Neutral
+test_067,Trial results pending,"Phase 2 data expected next month, no leaks yet",News,0,0,1.0,,,,Neutral
+test_068,Calls printing before close,"ITM by a mile, closing out for a nice profit",Gain,0,0,1.0,,,,Positive
+test_069,Rotated into semis early,"Called this sector rotation weeks ago, paying off now",Gain,0,0,1.0,,,,Positive
+test_070,Doubled down after the split,"Bought more post-split, thesis still intact and stronger",Discussion,0,0,1.0,,,,Positive
+test_071,Getting in before the product launch,"Pre-launch hype building, expecting a pop on release day",YOLO,0,0,1.0,,,,Positive
+test_072,Long term hold finally breaking out,"Held for 2 years through the chop, finally breaking to new highs",Gain,0,0,1.0,,,,Positive
+test_073,Buyback program expanded,Company doubled its share repurchase authorization,News,0,0,1.0,,,,Positive
+test_074,Guidance raised mid-quarter,Rare mid-quarter update raising full year outlook,News,0,0,1.0,,,,Positive
+test_075,Strong pre-market movement,Up double digits before the bell on leaked earnings beat,News,0,0,1.0,,,,Positive
+test_076,New contract win announced,Won a multi-year government contract worth $2B,News,0,0,1.0,,,,Positive
+test_077,Options flow looking bullish,"Massive call buying at the money, someone knows something",Discussion,0,0,1.0,,,,Positive
+test_078,Bought puts on earnings miss expectation,"Guidance has been soft all year, betting on a miss",DD,0,0,1.0,,,,Negative
+test_079,Cutting my losses here,"Thesis broke down, selling before it gets worse",Loss,0,0,1.0,,,,Negative
+test_080,Chart looks like a death spiral,"Lower highs lower lows for three months straight, staying away",Discussion,0,0,1.0,,,,Negative
+test_081,Union strike announced,"Workers walking out starting next week, production will halt",News,0,0,1.0,,,,Negative
+test_082,Class action lawsuit filed,Investors suing over alleged misleading statements,News,0,0,1.0,,,,Negative
+test_083,Product recall issued,"Safety issue found, recalling units sold in the last year",News,0,0,1.0,,,,Negative
+test_084,Competitor announces cheaper alternative,"Same features at half the price, launching next quarter",News,0,0,1.0,,,,Negative
+test_085,Short interest climbing fast,"Institutions piling into shorts, something's off here",Discussion,0,0,1.0,,,,Negative
+test_086,Bearish divergence on the chart,"Momentum weakening even as price ticks up, avoiding this",Discussion,0,0,1.0,,,,Negative
+test_087,Bought inverse leveraged ETF,Betting the whole sector rolls over this month,YOLO,0,0,1.0,,,,Negative
+test_088,Company confirms date of investor day,"Set for next month, no new information released yet",News,0,0,1.0,,,,Neutral
+test_089,Stock halted pending news,"Trading halt in effect, reason not yet disclosed",News,0,0,1.0,,,,Neutral
+test_090,New ETF tracks basket of meme stocks,"Launch expected next week, ticker not final",News,0,0,1.0,,,,Neutral
+test_091,Company confirms it is reviewing strategic options,Could mean anything from sale to nothing at all,News,0,0,1.0,,,,Neutral
+test_092,Earnings call rescheduled,Pushed back one week due to a scheduling conflict,News,0,0,1.0,,,,Neutral
+test_093,What d you guys think will happen with rates,"Genuinely unsure, seeing arguments both ways",Discussion,0,0,1.0,,,,Neutral
+test_094,Company splits into two units,"Spinning off one division, financial terms not yet announced",News,0,0,1.0,,,,Neutral
+test_095,New leadership announced for subsidiary,No word yet on strategic direction changes,News,0,0,1.0,,,,Neutral
+test_096,Filed 10-Q on time,Nothing unusual flagged in the filing,News,0,0,1.0,,,,Neutral
+test_097,Company renews office lease,"Standard 5 year renewal, no other details given",News,0,0,1.0,,,,Neutral
+test_098,Sold my house to buy more shares,"Fully convinced this is the trade of the decade, going all in",YOLO,0,0,1.0,,,,Positive
+test_099,Bet the mortgage on puts,"Absolutely certain this is going to zero, all in on the crash",YOLO,0,0,1.0,,,,Negative
+test_100,Just vibing with my index fund,"Not trying to time anything, just dollar cost averaging monthly",Discussion,0,0,1.0,,,,Neutral
+test_101,Company announces stock split,"3 for 1 split effective next month, no change to fundamentals",News,0,0,1.0,,,,Neutral
+test_102,Whales accumulating quietly,On-chain data shows large wallets buying steadily for weeks,Discussion,0,0,1.0,,,,Positive
+test_103,Whales dumping quietly,On-chain data shows large wallets have been selling steadily for weeks,Discussion,0,0,1.0,,,,Negative

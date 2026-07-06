@@ -1,0 +1,120 @@
+post_id,title,body,flair,score,num_comments,upvote_ratio,date_utc,url,ticker,true_label
+test2_000,bought the rip,yolo'd into calls this morning idk why but it feels right,YOLO,0,0,1.0,,,,Positive
+test2_001,held thru earnings finally worked out,,Gain,0,0,1.0,,,,Positive
+test2_002,this is going higher trust me bro,chart looks like a rocket ship ngl,Discussion,0,0,1.0,,,,Positive
+test2_003,added more today,"avg down and it's already recovering, feeling good",Discussion,0,0,1.0,,,,Positive
+test2_004,nvda dd nobody asked for,"margins expanding, guide raised, i'm in",DD,0,0,1.0,,,,Positive
+test2_005,this dip is a gift,back up the truck fellas,YOLO,0,0,1.0,,,,Positive
+test2_006,finally green after 6 months,,Gain,0,0,1.0,,,,Positive
+test2_007,company beat and raised,stock barely moved but this is bullish long term,News,0,0,1.0,,,,Positive
+test2_008,insider buys $2m worth,ceo putting his money where his mouth is,News,0,0,1.0,,,,Positive
+test2_009,300 calls printing rn,closing half tomorrow,Gain,0,0,1.0,,,,Positive
+test2_010,this sub slept on this one,up 80% and nobody's talking about it,Gain,0,0,1.0,,,,Positive
+test2_011,buyback announced 5b,shares down but this is objectively good news,News,0,0,1.0,,,,Positive
+test2_012,contract win with the pentagon,multi year deal just dropped,News,0,0,1.0,,,,Positive
+test2_013,chart broke out of the wedge,"volume confirming, next stop new highs",Discussion,0,0,1.0,,,,Positive
+test2_014,loaded the boat this morning,,YOLO,0,0,1.0,,,,Positive
+test2_015,puts finally cooking,took forever but here we are,Gain,0,0,1.0,,,,Negative
+test2_016,shorted this at the top last week,feeling pretty good rn,YOLO,0,0,1.0,,,,Negative
+test2_017,guidance was trash,cut full year outlook by a mile,News,0,0,1.0,,,,Negative
+test2_018,bagholding since jan,no bottom in sight lol kill me,Loss,0,0,1.0,,,,Negative
+test2_019,ceo just quit no warning,stock cratering afterhours,News,0,0,1.0,,,,Negative
+test2_020,union walked out this morning,production halted indefinitely,News,0,0,1.0,,,,Negative
+test2_021,sec opened an inquiry,not a good look,News,0,0,1.0,,,,Negative
+test2_022,bought sqqq this morning,small win but a win,Gain,0,0,1.0,,,,Negative
+test2_023,told y'all this was a scam,down 60% since my post 2 months ago,Discussion,0,0,1.0,,,,Negative
+test2_024,cut my position in half today,thesis just isn't working anymore,Loss,0,0,1.0,,,,Negative
+test2_025,competitor announced a cheaper version,this can't be good for margins,News,0,0,1.0,,,,Negative
+test2_026,debt just got downgraded,borrowing about to get way more expensive,News,0,0,1.0,,,,Negative
+test2_027,this thing has been making lower highs for weeks,not touching it,Discussion,0,0,1.0,,,,Negative
+test2_028,bought puts before the print,gut feeling this misses,DD,0,0,1.0,,,,Negative
+test2_029,recall issued on the flagship product,this is gonna hurt sales,News,0,0,1.0,,,,Negative
+test2_030,13f just dropped,big name fund cut the position by 70% last quarter,News,0,0,1.0,,,,Negative
+test2_031,burry added a new position this quarter per the filing,,News,0,0,1.0,,,,Positive
+test2_032,bank removed it from the recommended list,"quietly, no press release",News,0,0,1.0,,,,Negative
+test2_033,founder filed to sell 2m shares,10b5-1 plan just hit the tape,News,0,0,1.0,,,,Negative
+test2_034,biggest customer just extended the deal early,5 more years locked in,News,0,0,1.0,,,,Positive
+test2_035,fed guy hinted at more hikes on the podcast,,News,0,0,1.0,,,,Negative
+test2_036,export ban on the key input just got lifted,supply chain finally opens up,News,0,0,1.0,,,,Positive
+test2_037,main supplier filed chapter 11 overnight,,News,0,0,1.0,,,,Negative
+test2_038,"activist investor takes a stake, pushing for changes",,News,0,0,1.0,,,,Positive
+test2_039,pension fund quietly exited the position last month,"13f shows it, no explanation given",News,0,0,1.0,,,,Negative
+test2_040,new pb today,personal best in losses that is,Loss,0,0,1.0,,,,Negative
+test2_041,living my best life,sold at the bottom right before it tripled lmao,Loss,0,0,1.0,,,,Negative
+test2_042,diamond hands they said,down 92% still holding apparently i'm built different,Loss,0,0,1.0,,,,Negative
+test2_043,total genius move,refi'd the house for calls that expired worthless last friday,Loss,0,0,1.0,,,,Negative
+test2_044,everything's fine here,just down 85% but who's counting,Loss,0,0,1.0,,,,Negative
+test2_045,real financial advisor hours,yolo'd rent money and here we are,Loss,0,0,1.0,,,,Negative
+test2_046,q3 numbers dropped,"in line with estimates, nothing crazy either way",News,0,0,1.0,,,,Neutral
+test2_047,new cfo starting next month,replacing the one who's retiring,News,0,0,1.0,,,,Neutral
+test2_048,shareholder meeting set for next month,"standard agenda, nothing unusual",News,0,0,1.0,,,,Neutral
+test2_049,switching exchanges,"no operational changes, just a listing move",News,0,0,1.0,,,,Neutral
+test2_050,filed a patent,"still pending review, could take years",News,0,0,1.0,,,,Neutral
+test2_051,presenting at a conference next week,,News,0,0,1.0,,,,Neutral
+test2_052,getting added to an index next rebalance,"mid cap one, not the big ones",News,0,0,1.0,,,,Neutral
+test2_053,dividend unchanged this quarter,same as last time,News,0,0,1.0,,,,Neutral
+test2_054,mou signed to explore a jv,"non binding, nothing concrete yet",News,0,0,1.0,,,,Neutral
+test2_055,earnings date is the 14th,after market close,News,0,0,1.0,,,,Neutral
+test2_056,anyone got thoughts on this sector,trying to figure out where i stand,Discussion,0,0,1.0,,,,Neutral
+test2_057,what's the vibe on rates this year,genuinely can't tell which way this goes,Discussion,0,0,1.0,,,,Neutral
+test2_058,new clean energy etf just launched,0.2 expense ratio,News,0,0,1.0,,,,Neutral
+test2_059,opening a new office in austin,hiring details still light,News,0,0,1.0,,,,Neutral
+test2_060,survey says consumers split on outlook,half up half down basically,News,0,0,1.0,,,,Neutral
+test2_061,this sub summed up,,Meme,0,0,1.0,,,,Neutral
+test2_062,every damn time,,Meme,0,0,1.0,,,,Neutral
+test2_063,mood rn,,Meme,0,0,1.0,,,,Neutral
+test2_064,tell me you're regarded without telling me,,Meme,0,0,1.0,,,,Neutral
+test2_065,monday be like,,Meme,0,0,1.0,,,,Neutral
+test2_066,torn on this one ngl,"half of me wants out half wants to hold, no clear read",Discussion,0,0,1.0,,,,Neutral
+test2_067,earnings tomorrow no idea what to expect,whisper numbers all over the place,Discussion,0,0,1.0,,,,Neutral
+test2_068,lawsuit outcome anyone's guess,lawyers on this sub seem split 50/50,News,0,0,1.0,,,,Neutral
+test2_069,trial data still pending,"no leaks yet, results next month supposedly",News,0,0,1.0,,,,Neutral
+test2_070,company reviewing strategic options,could mean a sale could mean nothing,News,0,0,1.0,,,,Neutral
+test2_071,halted pending news,no reason given yet,News,0,0,1.0,,,,Neutral
+test2_072,itm by a mile closing out now,,Gain,0,0,1.0,,,,Positive
+test2_073,called the rotation into semis weeks ago,finally paying off,Gain,0,0,1.0,,,,Positive
+test2_074,doubled down post split,thesis stronger than ever imo,Discussion,0,0,1.0,,,,Positive
+test2_075,getting in before launch day,hype building fast on this one,YOLO,0,0,1.0,,,,Positive
+test2_076,held for 2 years thru the chop,finally breaking to new highs today,Gain,0,0,1.0,,,,Positive
+test2_077,buyback just got expanded,doubled the authorization,News,0,0,1.0,,,,Positive
+test2_078,"mid quarter guide raise, rare af",,News,0,0,1.0,,,,Positive
+test2_079,gapping up premarket on the leak,double digits before the bell,News,0,0,1.0,,,,Positive
+test2_080,govt contract just landed,2b over multiple years,News,0,0,1.0,,,,Positive
+test2_081,call flow looking spicy today,someone knows something imo,Discussion,0,0,1.0,,,,Positive
+test2_082,betting on a miss here,guidance has been soft all year ngl,DD,0,0,1.0,,,,Negative
+test2_083,cutting losses rn,"thesis broke, not waiting around",Loss,0,0,1.0,,,,Negative
+test2_084,chart looks like a death spiral tbh,lower highs for 3 months straight,Discussion,0,0,1.0,,,,Negative
+test2_085,strike starts next week,production halting completely,News,0,0,1.0,,,,Negative
+test2_086,class action just filed,misleading statements alleged,News,0,0,1.0,,,,Negative
+test2_087,recall on the whole product line,safety issue found apparently,News,0,0,1.0,,,,Negative
+test2_088,cheaper competitor launching next quarter,same specs half the price,News,0,0,1.0,,,,Negative
+test2_089,short interest climbing fast,smart money piling in apparently,Discussion,0,0,1.0,,,,Negative
+test2_090,bearish divergence forming,momentum fading even as price ticks up,Discussion,0,0,1.0,,,,Negative
+test2_091,bought sqqq this week,betting the whole sector rolls over,YOLO,0,0,1.0,,,,Negative
+test2_092,investor day date confirmed,no new info released yet,News,0,0,1.0,,,,Neutral
+test2_093,new meme stock basket etf incoming,ticker tbd,News,0,0,1.0,,,,Neutral
+test2_094,filed 10q on time,nothing flagged,News,0,0,1.0,,,,Neutral
+test2_095,office lease renewed,standard 5yr term,News,0,0,1.0,,,,Neutral
+test2_096,splitting into two units,terms not disclosed yet,News,0,0,1.0,,,,Neutral
+test2_097,new sub leadership announced,no word on direction yet,News,0,0,1.0,,,,Neutral
+test2_098,what do yall think happens with rates,seeing good arguments both ways tbh,Discussion,0,0,1.0,,,,Neutral
+test2_099,sold my winners kept my losers,guess that's backwards but here we are,Discussion,0,0,1.0,,,,Negative
+test2_100,up on the calls down on the puts,netted out about even today,Discussion,0,0,1.0,,,,Neutral
+test2_101,stock up 10% but i sold too early,still take the w i guess,Gain,0,0,1.0,,,,Positive
+test2_102,company beat estimates but guided lower,market can't decide how to feel,News,0,0,1.0,,,,Neutral
+test2_103,loved the earnings hated the reaction,"makes no sense but here we are, still bullish long term",Discussion,0,0,1.0,,,,Positive
+test2_104,thesis was right timing was wrong,sold before the move finally happened,Loss,0,0,1.0,,,,Negative
+test2_105,sold the house lol just kidding but almost,all in on this breakout,YOLO,0,0,1.0,,,,Positive
+test2_106,mortgaged everything betting this hits zero,conviction has never been higher,YOLO,0,0,1.0,,,,Negative
+test2_107,just dca into index funds tbh,not trying to time anything,Discussion,0,0,1.0,,,,Neutral
+test2_108,3 for 1 split announced,no fundamental change obviously,News,0,0,1.0,,,,Neutral
+test2_109,onchain data shows whales loading up quietly,been happening for weeks,Discussion,0,0,1.0,,,,Positive
+test2_110,onchain data shows whales quietly exiting,steady selling for weeks now,Discussion,0,0,1.0,,,,Negative
+test2_111,guy on the earnings call sounded nervous,tone was off compared to last quarter,Discussion,0,0,1.0,,,,Negative
+test2_112,management sounded way more confident this call,different energy than last quarter,Discussion,0,0,1.0,,,,Positive
+test2_113,everyone in the comments losing it over this,can't tell if that's bullish or just funny ngl,Meme,0,0,1.0,,,,Neutral
+test2_114,saw this coming a mile away,"shorted it two weeks ago, playing out exactly as expected",YOLO,0,0,1.0,,,,Negative
+test2_115,finally not the bagholder for once,sold before the crash this time,Gain,0,0,1.0,,,,Positive
+test2_116,missed the whole move up,still holding cash on the sidelines watching it rip,Discussion,0,0,1.0,,,,Positive
+test2_117,everyone hyping this and i don't get it,fundamentals look shaky to me tbh,Discussion,0,0,1.0,,,,Negative
+test2_118,nobody's talking about this but the numbers are insane,quietly one of the best setups i've seen,DD,0,0,1.0,,,,Positive

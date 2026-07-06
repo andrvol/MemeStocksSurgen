@@ -6,7 +6,7 @@ from openai import OpenAI
 
 from meme_stock_classifier import classify_dataframe, FAILURE_LABEL
 
-INPUT_FILE = "wsb_labeled.csv"
+INPUT_FILE = "wsb_test_holdout_v4.csv"
 load_dotenv()
 
 def main():
