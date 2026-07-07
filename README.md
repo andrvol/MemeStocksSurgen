@@ -23,3 +23,6 @@ KEY FILES:
 - wsb_labeled.csv          : pre-labeled posts for the initial load
 - ticker_prices.csv        : pre-fetched price snapshot
 - model_setup.py           : load files via model_setup.paths
+
+LINK TO THE APPLICATION'S UI:
+https://wsb-sentiment-classifier--polyshirobot.replit.app/
