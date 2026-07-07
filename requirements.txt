@@ -4,4 +4,3 @@ yfinance
 tqdm
 huggingface_hub
 scikit-learn
-python-dotenv
