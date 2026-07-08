@@ -1,28 +1,73 @@
-# The Trend Terminal: deployment notes for the build agent
+# 📈 Meme Stock Sentiment Analyzer
 
-This app has a Python backend: it classifies posts with OpenAI and fetches live
-prices with yfinance (stock_data.py), so it is NOT a static site. A Python
-process must be running for the app to work.
+[**Meme Stock Sentiment Analyzer**](https://wsb-sentiment-classifier--polyshirobot.replit.app/) is an AI-powered web application for sentiment analysis of **WallStreetBets** posts and meme stocks using **Large Language Models (LLMs)**.
 
-DEPLOYMENT (must do):
-- If you split the app into a separate backend service, give that service a
-  PRODUCTION run command, not only a development one. A backend with only a dev
-  run config starts in the workspace but never starts when published, which
-  appears as an "API offline" or PY_API_STATUS error in the live app.
-- Confirm the published deployment starts every service (frontend AND Python
-  backend) together.
+The application classifies Reddit posts as **Positive**(bullish), **Negative**(bearish), or **Neutral**, identifies mentioned meme stocks, and displays real-time stock information through an interactive web interface.
 
-SECRETS:
-- The classifier needs an OpenAI API key from the OPENAI_API_KEY environment
-  variable. Set it in the DEPLOYMENT (published) Secrets, not just the dev
-  workspace. Those are separate in Replit.
+---
 
-KEY FILES:
-- meme_stock_classifier.py : sentiment classification
-- stock_data.py            : live prices via yfinance
-- wsb_labeled.csv          : pre-labeled posts for the initial load
-- ticker_prices.csv        : pre-fetched price snapshot
-- model_setup.py           : load files via model_setup.paths
+## 🚀 Features
 
-LINK TO THE APPLICATION'S UI:
-https://wsb-sentiment-classifier--polyshirobot.replit.app/
+* 🤖 AI-powered sentiment analysis using GPT-5.4-mini
+* 📊 Detects Bullish, Bearish, and Neutral market sentiment
+* 💬 Understands WallStreetBets slang and financial terminology
+* 🎯 Few-shot prompt engineering for improved classification
+* 📈 Live stock prices powered by Yahoo Finance
+* 📱 Modern and responsive web interface
+* ⚡ Fast API backend with real-time predictions
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+* Python
+* FastAPI
+* OpenAI API (GPT-5.4-mini)
+* yfinance
+
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+
+### AI Techniques
+
+* Prompt Engineering
+* Few-shot Prompting
+* Rule-based Keyword Enhancement
+* Financial Domain Adaptation
+
+---
+
+## 🧠 How It Works
+
+1. A Reddit post is submitted through the web interface.
+2. The application sends the post to an LLM with a carefully designed system prompt.
+3. Few-shot examples help the model understand financial slang, sarcasm, and WallStreetBets terminology.
+4. The response is combined with rule-based keyword analysis.
+5. The application displays:
+
+   * Sentiment (Bullish / Bearish / Neutral)
+   * Mentioned stock ticker
+   * Confidence score
+   * Current market price
+
+---
+
+## 📊 Model Performance
+
+The final system achieved an overall **92.4% classification accuracy** on the evaluation datasets.
+
+
+## 🎓 What We Learned
+
+* Prompt engineering can have a greater impact than changing the underlying model.
+* Few-shot prompting substantially improves financial sentiment classification.
+* Financial slang and internet memes require domain-specific examples.
+* Hybrid AI systems (LLMs + rule-based methods) are often more reliable than using an LLM alone.
+
+---
+
