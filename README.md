@@ -61,13 +61,3 @@ The application classifies Reddit posts as **Positive**(bullish), **Negative**(b
 
 The final system achieved an overall **92.4% classification accuracy** on the evaluation datasets.
 
-
-## 🎓 What We Learned
-
-* Prompt engineering can have a greater impact than changing the underlying model.
-* Few-shot prompting substantially improves financial sentiment classification.
-* Financial slang and internet memes require domain-specific examples.
-* Hybrid AI systems (LLMs + rule-based methods) are often more reliable than using an LLM alone.
-
----
-
